@@ -1,16 +1,3 @@
-# flutter_application_1
+Pada tugas 2 flutter basic ini,  saya membuat tampilan aplikasi yang terinspirasi dari aplikasi twitter. berikut adalah screenshoot dari aplikasi yang saya buat
+![Screenshot (226)](https://user-images.githubusercontent.com/54989440/132528163-4550ee90-3811-4e5e-9094-2ad4318e9a53.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
